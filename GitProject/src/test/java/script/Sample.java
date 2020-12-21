@@ -8,5 +8,7 @@ public class Sample {
 	
 	   public void disp(){
 		System.out.println("Hello");
+		System.out.println("world");
+	
 	}
 }
